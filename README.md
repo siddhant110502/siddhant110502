@@ -6,10 +6,10 @@ Data Analyst
 
 📫 How to reach me sidtalawadekar@gmail.com
 
-⚡ Fun fact BMS {FINANCE} Student
+⚡ Fun fact BMS {FINANCE} Student Turned IT Professional
 
 Connect with me:
-e
+
 
 Languages and Tools:
 PowerBi Excel mysql python pandas git photoshop scikit_learn selenium azure
