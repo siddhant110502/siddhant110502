@@ -12,4 +12,4 @@ Connect with me:
 
 
 Languages and Tools:
-PowerBi Excel mysql python pandas git photoshop scikit_learn selenium azure
+PowerBi Excel mysql python 
