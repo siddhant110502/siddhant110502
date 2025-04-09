@@ -19,7 +19,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="blank">
+  <a href="https://www.linkedin.com/in/siddhant-talawadekar/" target="blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
